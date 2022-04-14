@@ -1,4 +1,4 @@
-# UTSmobile
+# praktikummobile
 Nama: Salsabila Syifa
 NIM: 2010817320004
 Mata Kuliah Pemrograman Mobile 
